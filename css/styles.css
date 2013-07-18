@@ -5,9 +5,36 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
+  background-color: whitesmoke;
+  background-position: center -18em;
+  background-repeat: repeat-x; 
 }
 
-h1, h2, h3, h4, h5, h6 {
+#site {
+	max-width: 46em;
+	margin: 1.5em auto 3em auto;
+	line-height:1.5em;
+}
+
+#page{
+	background: white;
+	padding: 3em 3em 1.5em 3em;
+	border: 1px solid #ccc;
+}
+
+/* CSS3 */
+#page{
+	box-shadow: 2px 2px 8px #aaa;
+	-webkit-box-shadow: 2px 2px 8px #aaa;
+	-moz-box-shadow: 2px 2px 8px #aaa;	
+}
+
+h1{
+  color:#222;
+  margin:0 0 0 30px;
+}
+
+h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
 }
