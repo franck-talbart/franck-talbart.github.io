@@ -21,7 +21,7 @@ body
 #page
 {
     background: white;
-    padding: 4em 3em 1.5em 3em;
+    padding: 6em 3em 1.5em 3em;
     border: 1px solid #ccc;
 }
 
@@ -40,11 +40,13 @@ body
 #flags img 
 {
     margin:0px 10px 0px 0px;
+    border: 0px;
 }
 
 #icons img 
 {
     margin:0px 15px 0px 0px;
+    border: 0px;
 }
 
 /* CSS3 */
