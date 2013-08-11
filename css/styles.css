@@ -2,7 +2,7 @@
 
 body 
 {
-    padding:10px;
+    padding:8px;
     font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
     color:#777;
     font-weight:300;
@@ -13,8 +13,8 @@ body
 
 #site
 {
-    max-width: 46em;
-    margin: 1.5em auto 3em auto;
+    max-width: 48em;
+    margin: 1em auto 1em auto;
     line-height:1.5em;
 }
 
@@ -170,7 +170,7 @@ img
 
 header
 {
-    width:270px;
+    width:275px;
     float:left;
     position:fixed;
 }
