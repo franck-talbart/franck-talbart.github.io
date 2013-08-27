@@ -72,6 +72,7 @@ h2, h3, h4, h5, h6
 p, ul, ol, table, pre, dl 
 {
     margin:0 0 20 0px;
+text-align:justify;
 }
 
 h1, h2, h3
